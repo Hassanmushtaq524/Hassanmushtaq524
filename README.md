@@ -35,25 +35,25 @@ Welcome to my GitHub! I'm a **Computer Science and Mathematics student** at Ohio
 
 ## 🚀 Projects  
 
-- **[AnimeForum](#):** Anime-centered social media application leveraging **MERN stack** and AWS.  
-- **[GroundTruth](#):** AI-powered tool to automate code-to-documentation workflows.  
-- **[TodoGame](#):** Gamified to-do app for productivity enthusiasts.  
-- **[Noteify](#):** AI-integrated note-taking app with stylus input support.  
-- **[Traveling Salesman](#):** Optimized solution for the TSP problem using advanced algorithms.  
+- **[AnimeForum](https://github.com/HassanMushtaq524/AnimeForum/):** Anime-centered social media application leveraging **MERN stack** and AWS.  
+- **[GroundTruth](https://github.com/HassanMushtaq524/groundtruth/):** AI-powered tool to automate code-to-documentation workflows.  
+- **[TodoGame](https://github.com/HassanMushtaq524/TodoGame/):** Gamified to-do app for productivity enthusiasts.  
+- **[Noteify](https://github.com/HassanMushtaq524/Noteify/):** AI-integrated note-taking app with stylus input support.  
+- **[Traveling Salesman](https://github.com/Hassanmushtaq524/TravelingSalesman):** Optimized solution for the TSP problem using advanced algorithms.  
 
 ---
 
 ## 🎨 Design  
 Did you know I also do **graphic design** and **UI/UX design**?  
-Check out my work on my [Adobe Portfolio](#)!
+Check out my work on my [Adobe Portfolio](https://hhmushtaq.myportfolio.com/)!
 
 ---
 
 ## 📫 Contact Me  
-- 🌐 [Portfolio Website](#)  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 [LinkedIn](#)  
+- 🌐 [Portfolio Website](https://hassanmushtaq.netlify.app/)  
+- 📧 Email: [hhmushtaq@owu.edy](mailto:hhmushtaq@owu.edu)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hassan-mushtaq-3a5143230/)  
 
 ---
 
-Feel free to explore my repositories and connect with me. Let's build something amazing together! 💻🎨
+Please feel free to explore my repositories and reach out to me. Let's build something amazing together! 💻🎨
