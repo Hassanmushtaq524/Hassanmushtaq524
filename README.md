@@ -1,4 +1,4 @@
-# Hello, I'm Hassan Mushtaq!
+#  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Hassan Mushtaq!
 
 Welcome to my GitHub! I'm a **Computer Science and Mathematics student** at Ohio Wesleyan University, with a passion for **building efficient software** and crafting **engaging user experiences**. From software engineering to graphic design, I thrive on turning creative ideas into reality. 🚀
 
