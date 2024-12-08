@@ -26,6 +26,9 @@ Welcome to my GitHub! I'm a **Computer Science and Mathematics student** at Ohio
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🎨 Design & Creative  
+Did you know I also do **graphic design** and **UI/UX design**?  
+Check out my work on my [Adobe Portfolio](https://hhmushtaq.myportfolio.com/)!
+
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
@@ -40,12 +43,6 @@ Welcome to my GitHub! I'm a **Computer Science and Mathematics student** at Ohio
 - **[TodoGame](https://github.com/HassanMushtaq524/TodoGame/):** Gamified to-do app for productivity enthusiasts.  
 - **[Noteify](https://github.com/HassanMushtaq524/Noteify/):** AI-integrated note-taking app with stylus input support.  
 - **[Traveling Salesman](https://github.com/Hassanmushtaq524/TravelingSalesman):** Optimized solution for the TSP problem using advanced algorithms.  
-
----
-
-## 🎨 Design  
-Did you know I also do **graphic design** and **UI/UX design**?  
-Check out my work on my [Adobe Portfolio](https://hhmushtaq.myportfolio.com/)!
 
 ---
 
